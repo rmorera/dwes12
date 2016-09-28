@@ -10,6 +10,8 @@ public class Ejercicio01 {
 		
 		System.out.println("Modificacion");
 		
+		System.out.println("Modificacion2");
+		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Introduzca un día de la semana");
 		
