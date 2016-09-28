@@ -8,6 +8,8 @@ public class Ejercicio01 {
 			
 		String dia;
 		
+		System.out.println("Modificacion");
+		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Introduzca un día de la semana");
 		
